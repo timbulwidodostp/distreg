@@ -4,6 +4,7 @@
 # Distribution regression as in Foresi and Peracchi (1995) Use distreg With (In) R Software
 install.packages("remotes")
 remotes::install_github("zengying17/ate_pct-r")
+install.packages("sandwich")
 library("sandwich")
 library("atepct")
 # Estimate Distribution regression as in Foresi and Peracchi (1995) Use distreg With (In) R Software
