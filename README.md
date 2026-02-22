@@ -1,6 +1,8 @@
 # distreg
 Distribution regression as in Foresi and Peracchi (1995) Use distreg With (In) R Software
 
+https://www.youtube.com/watch?v=eIFDHiAwLDs
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
